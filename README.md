@@ -48,6 +48,10 @@ Para todos os casos, crie um repositório no seu github onde você irá resolver
 - [ ] Aprender sobre escopo do LET, do CONST e do VAR e do porque não usar o VAR
 - [ ] aprender sobre callbacks, que são uma função que é passada como parâmetro para outra, e executada dentro da outra função.
 
+### Avançado
+- [ ] Aprenda sobre ESLINT e PRETTIER
+- [ ] No contexto de typescript com eslint e prettier, acesse esse doc e adicione várias regras novas no seu linter, e teste cada caso, fazendo errado para o eslint reclamar, e fazendo do jeito recomendado pela regra que você ativou https://typescript-eslint.io/rules/
+- [ ] Configure e modifique alguns valores das regras do prettier, e veja as diferenças https://prettier.io/docs/en/options.html
 
 
 
